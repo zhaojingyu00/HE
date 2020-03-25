@@ -1,0 +1,18 @@
+#table{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 80px;
+}
+#title{
+    width: 25%;
+    margin: 0 auto;
+}
+#main {
+    width: 70%;
+    height: 450px;
+    margin:0 auto;
+}
+#hot-display-license-info{
+    display: none;
+}
